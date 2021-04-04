@@ -3,6 +3,8 @@ var E = ['Cache-V'];
 var U = [
 '/manifest.json',
 '/index.html',
+'/style.css'
+]
 
 //Service Worker installing & creating a cache whih predefined list above (on VAR U = ....)
 self.addEventListener('install', e => {
