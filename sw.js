@@ -3,7 +3,7 @@ var E = ['Cache-V'];
 var U = [
 '/manifest.json',
 '/index.html',
-'/style.css'
+'/icon-192.png'
 ]
 
 //Service Worker installing & creating a cache whih predefined list above (on VAR U = ....)
