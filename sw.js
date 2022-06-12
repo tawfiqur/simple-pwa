@@ -1,4 +1,4 @@
-use strict;
+"use strict";
 var C = ['Cache-V'];
 var E = ['Cache-V'];
 var U = [
