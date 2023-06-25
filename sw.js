@@ -7,6 +7,7 @@ var U = [
 '/icon-192.png'
 ]
 
+
 //Service Worker installing & creating a cache whih predefined list above (on VAR U = ....)
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(C)
